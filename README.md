@@ -6,41 +6,27 @@ Keishmer Rodriguez/Los Ruices - Charlie
 
 Ramon Marron/----- - Delta
 
-Tipo de usuario
+# Tipo de usuario
 
 x Alfa
+- Bravo
+- Charlie [x]
+- Delta
+- Echo
 
- Bravo
- 
- Charlie
- 
- Delta
- 
- Echo
- 
-Tecnología
+# Tecnología
 
 x HTML
+- Json
+- Archivo plano (.txt) [x]
+- Javascript
+- Markdown / .md
 
- Json
- 
- Archivo plano (.txt)
- 
- Javascript
- 
- Markdown / .md
- 
-Seleccione el tipo de actividad
+# Seleccione el tipo de actividad
 
 x Feature
-
- Changes
- 
- Hotfix
- 
- Refactor
- 
- Performance
- 
- Testing
- 
+- Changes
+- Hotfix [x]
+-Refactor
+-Performance
+-Testing
