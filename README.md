@@ -4,7 +4,7 @@ Gustavo Oseche/Guarenas - Bravo
 
 Keishmer Rodriguez/Los Ruices - Charlie
 
-Ramon Marron/----- - Delta
+Ramon Marron/California - Delta
 
 # Tipo de usuario
 
