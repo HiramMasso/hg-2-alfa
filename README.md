@@ -10,7 +10,7 @@ Ramon Marron/California - Delta
 
 x Alfa
 - Bravo
-- Charlie [x]
+- Charlie
 - Delta
 - Echo
 
@@ -18,7 +18,7 @@ x Alfa
 
 x HTML
 - Json
-- Archivo plano (.txt) [x]
+- Archivo plano (.txt)
 - Javascript
 - Markdown / .md
 
@@ -26,7 +26,7 @@ x HTML
 
 x Feature
 - Changes
-- Hotfix [x]
--Refactor
--Performance
--Testing
+- Hotfix
+- Refactor
+- Performance
+- Testing
